@@ -11,7 +11,9 @@ Desenvolvido por **Luiz Fernando**.
 
 ## 🎥 Demonstração
 
-![Demo da Calculadora](assets/demo.jpg)
+<p align="center">
+  <img src="demo.jpg" alt="Demo da Calculadora" width="600"/>
+</p>
 
 ---
 
