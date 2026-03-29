@@ -1,4 +1,4 @@
-# 🧮 Calculadora em Python
+# Calculadora em Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
@@ -9,7 +9,7 @@ Desenvolvido por **Luiz Fernando**.
 
 ---
 
-## 🎥 Demonstração
+## Demonstração
 
 <p align="center">
   <img src="demo.jpg" alt="Demo da Calculadora" width="600"/>
@@ -17,7 +17,7 @@ Desenvolvido por **Luiz Fernando**.
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Esta aplicação permite realizar operações matemáticas básicas diretamente pelo terminal de forma interativa.
 
@@ -25,7 +25,7 @@ O programa funciona em loop contínuo (`while True`), permitindo múltiplos cál
 
 ---
 
-## 🧠 Lógica do programa
+## Lógica do programa
 
 • O programa utiliza um loop infinito (while True).
 
@@ -39,7 +39,7 @@ O programa funciona em loop contínuo (`while True`), permitindo múltiplos cál
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Operações básicas: soma, subtração, multiplicação e divisão.
 - Execução contínua no terminal.
